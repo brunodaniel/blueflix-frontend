@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login {
+  padding: 0.5rem;
+  border-radius: 0.4rem;
+  border: solid;
+  border-width: 0.15rem;
+  margin: 0.5rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  &__title {
+    justify-content: center;
+  }
+
+  &__form {
+  }
+}
